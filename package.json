@@ -1,0 +1,10 @@
+{
+    "name": "com.virtualafterthoughts.devid",
+    "description": "Per-developer package management.",
+    "version": "0.1.0",
+    "unity": "2020.3",
+    "displayName": "Developer ID",
+    "author": {
+        "name": "VirtualAfterthoughts"
+    }
+}
